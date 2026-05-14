@@ -1,0 +1,6 @@
+# Install everything with:  pip install -r requirements.txt
+
+yfinance       # pulls stock/index data from Yahoo Finance
+pandas         # DataFrames, time series manipulation
+numpy          # fast array math, random number generation
+matplotlib     # charting
